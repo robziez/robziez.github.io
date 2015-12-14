@@ -1,6 +1,6 @@
 
 body {
-	background: url("images/mainpage_pic.jpg");
+	background: url("unit_3/images/mainpage_pic.jpg");
 	background-size: cover;
 	color: aquamarine;
 	text-align: center;
@@ -16,5 +16,4 @@ p{
 hr{
 	width: 400px;
 	color: black;
-	font-style: bold;
 }
