@@ -1,12 +1,13 @@
 
 body {
 	background-image: url("../images/mainpage_pic.jpg");
+	background-repeat: no-repeat;
 	background-size: cover;
 	color: aquamarine;
 	text-align: center;
 }
 h1{
-	font-family: Monotype Corsiva;
+	font-family: Script;
 	font-size: 50px;
 }
 p{
