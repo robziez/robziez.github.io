@@ -1,14 +1,22 @@
 
 body {
-	background-color: aquamarine;
-	color: gold;
+	background: url("images/mainpage_pic.jpg");
+	background-size: cover;
+	color: aquamarine;
 	text-align: center;
 }
 h1{
-	font-family: cursive;
-	font-size: 36px;
+	font-family: Monotype Corsiva;
+	font-size: 50px;
 	text-shadow: 2px 2px #919191;
+}
+p{
+	font-family:Georgia;
+	font-size: 30px;
 }
 hr{
 	width: 400px;
+	color: black;
+	font-style: bold;
 }
+img
