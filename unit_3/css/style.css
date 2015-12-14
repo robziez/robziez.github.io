@@ -1,6 +1,6 @@
 
 body {
-	background: url("unit_3/images/mainpage_pic.jpg");
+	background: url("file://images/mainpage_pic.jpg");
 	background-size: cover;
 	color: aquamarine;
 	text-align: center;
