@@ -1,0 +1,14 @@
+
+body {
+	background-color: aquamarine;
+	color: gold;
+	text-align: center;
+}
+h1{
+	font-family: cursive;
+	font-size: 36px;
+	text-shadow: 2px 2px #919191;
+}
+hr{
+	width: 400px;
+}
