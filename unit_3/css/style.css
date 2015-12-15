@@ -18,3 +18,8 @@ hr{
 	width: 400px;
 	color: black;
 }
+#footer {
+	font-size: 12px;
+	font-family: "Times New Roman";
+	text-align: center;
+}
