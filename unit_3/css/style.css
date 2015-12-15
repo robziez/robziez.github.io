@@ -5,7 +5,7 @@ body {
 	background-size: cover;
 	color: aquamarine;
 	text-align: center;
-	font-family: "snell roundhand";
+	font-family: "bodoni 72 book";
 }
 h1{
 	font-size: 50px;
@@ -19,18 +19,12 @@ hr{
 }
 footer {
 width: 100%;
-background: #336699;
 float: left;
-margin: 0 0 .5% 0;
-border-radius: 10px;
-box-shadow: 5px 5px 10px #202020
 }
 
 address {
-font-family: times;
+font-family: "times new roman";
 font-size : 16px; 
 text-align : center; 
 color: aquamarine;
-padding: 1% 0;
-text-shadow: 1px 1px 0px #202020
 }
