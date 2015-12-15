@@ -1,8 +1,6 @@
 
 body {
-	background-image: url("../images/mainpage_pic.jpg");
-	background-repeat: no-repeat;
-	background-size: cover;
+	background-color: aquamarine;
 	color: aquamarine;
 	text-align: center;
 	font-family: "bodoni 72 book";
