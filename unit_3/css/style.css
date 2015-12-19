@@ -1,7 +1,7 @@
 body{
 	background: url(../images/mainpage_pic.jpg);
 	background-repeat: no-repeat;
-	background-size: 100% 100%;
+	background-size: cover;
 	color: #FFFFFF;
 	text-align: center;
 	font-family: 'Great Vibes', georgia;
