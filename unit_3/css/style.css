@@ -1,13 +1,16 @@
 body{
-	background-color: aquamarine;
+	background: url(../images/mainpage_pic.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
 	color: #FFFFFF;
 	text-align: center;
 	font-family: 'Great Vibes', georgia;
 	font-weight: normal;
 }
 h1{
-	font-size: 50px;
+	font-size: 100px;
 	margin-bottom: 5px;
+	text-shadow: 1px 1px rgb(108,132,127);
 }
 hr{
 	padding: 0;
@@ -18,26 +21,38 @@ hr{
 	text-align: center;
 }
 p{
-	font-size: 30px;
+	font-size: 60px;
+	text-shadow: 1px 1px rgb(108,132,127);
 }
 table{
 	width: 75%;
-	margin-left: 100px;
+	margin-left: 150px;
 	margin-right: 100px;
 	text-align: center;
-	color: #FFFFFF;
-	font-size: 14px;
+	font-size: 16px;
 	font-family: georgia;
+	margin-top: 0px;
+}
+a{
+	color: #000000;
+}
+.dropdown{
+	display: block;
+	background-color: rgba(158,255,211,.5);
 }
 footer{
 	font-size: 12px;
 	font-family: "Times New Roman";
 	text-align: center;
+	margin-top: 600px;
+	margin-bottom: 0px;
 }
 .drop-nav{
 	position: absolute;
 	display: none;
+	list-style-type: none;
 }
 .dropdown:hover > .drop-nav {
 	display: block;
+	background-color: rgba(158,255,211,.5);
 }
