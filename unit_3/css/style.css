@@ -4,7 +4,7 @@ body{
 	background-size: 100% 100%;
 	color: #FFFFFF;
 	text-align: center;
-	font-family: 'Great Vibes', georgia;
+	font-family: 'Great Vibes', georgia, serif;
 	font-weight: normal;
 }
 h1{
@@ -55,4 +55,8 @@ footer{
 .dropdown:hover > .drop-nav {
 	display: block;
 	background-color: rgba(158,255,211,.5);
+}
+.drop-nav li{
+	border-bottom: 1px solid black;
+	text-decoration: none;
 }
