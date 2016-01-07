@@ -50,11 +50,12 @@ footer{
 .drop-nav{
 	position: absolute;
 	display: none;
-	list-style-type: none;
+	list-style-type: none
 }
 .dropdown:hover > .drop-nav {
 	display: block;
 	background-color: rgba(158,255,211,.5);
+	position: relative;
 }
 .drop-nav li{
 	border-bottom: 1px solid black;
