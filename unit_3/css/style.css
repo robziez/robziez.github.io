@@ -4,11 +4,11 @@ body{
 	background-size: 100% 100%;
 	color: #FFFFFF;
 	text-align: center;
-	font-family: 'Great Vibes', georgia, serif;
+	font-family: 'Great Vibes', georgia;
 	font-weight: normal;
 }
 h1{
-	font-size: 100px;
+	font-size: 96px;
 	margin-bottom: 5px;
 	text-shadow: 1px 1px rgb(108,132,127);
 }
@@ -21,7 +21,7 @@ hr{
 	text-align: center;
 }
 p{
-	font-size: 60px;
+	font-size: 64px;
 	text-shadow: 1px 1px rgb(108,132,127);
 }
 table{
@@ -30,11 +30,11 @@ table{
 	margin-right: 100px;
 	text-align: center;
 	font-size: 16px;
-	font-family: georgia;
+	font-family: 'Cabin', arial;
 	margin-top: 0px;
 }
 a{
-	color: #000000;
+	color: rgb(39,44,54);
 }
 .dropdown{
 	display: block;
