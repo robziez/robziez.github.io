@@ -1,7 +1,7 @@
 body{
 	background: url(../images/mainpage_pic.jpg);
 	background-repeat: no-repeat;
-	background-size: 100% 100%;
+	background-size: cover;
 	color: #FFFFFF;
 	text-align: center;
 	font-family: 'Great Vibes', georgia;
@@ -60,4 +60,8 @@ footer{
 .drop-nav li{
 	border-bottom: 1px solid black;
 	text-decoration: none;
+}
+ul li a:hover {
+	background-color: rgba(224,72,113,.5);
+	cursor: pointer;
 }
