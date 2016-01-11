@@ -7,31 +7,23 @@ body{
 	background-repeat: no-repeat;
 	background-size: cover;
 	color: #FFFFFF;
-	text-align: center;
-	font-family: 'Great Vibes', georgia;
 	font-weight: normal;
 	padding: 0;
 	margin: 0;
 }
 h1{
-	padding-top: 125px;
-	font-size: 96px;
+	font-family: 'Great Vibes', sans-serif;
+	padding-top: 75px;
+	font-size: 54px;
 	margin-bottom: 5px;
 	text-shadow: 1px 1px rgb(108,132,127);
-}
-hr{
-	padding: 0;
-	border: none;
-	border-top: medium double;
-	width: 400px;
-	margin-left: auto;
-	margin-right: auto;
-	color: #000000;
 	text-align: center;
 }
 p{
-	font-size: 64px;
-	text-shadow: 1px 1px rgb(108,132,127);
+	font-family: 'Roboto', sans-serif;
+	font-size: 28px;
+	text-shadow: 2px 2px rgb(108,132,127);
+	text-align: center;
 }
 nav{
 	width: 75%;
@@ -39,7 +31,8 @@ nav{
 	margin-right: auto;
 	text-align: center;
 	font-size: 18px;
-	font-family: 'Cabin', arial;
+	font-family: 'Roboto', arial;
+	font-style: bold;
 	margin-top: 0px;
 }
 a{
