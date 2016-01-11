@@ -1,0 +1,40 @@
+header{
+	font-size: 45px;
+	color: white;
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+	text-shadow: 2px 2px 2px rgb(39,44,54);
+	border-bottom: 2px #FFF solid;
+}
+#photo_header{
+	margin-bottom: 15px;
+}
+body{
+	background-color: rgb(158,255,211);
+	text-align: center;
+}
+#hotels_h1{
+	font-family: 'Roboto', sans-serif;
+	font-size: 30px;
+	margin-top: 50px;
+}
+.hotels_site{
+	font-size: 15px;
+	font-family: 'Roboto', sans-serif;
+	margin-top: 15px;
+}
+.click_image{
+	font-size: 14px;
+	color: gray;
+	font-family: 'Roboto', sans-serif;
+	margin-bottom: none;
+}
+#marriott,#hyatt{
+	border: 8px white solid;
+}
+p{
+	margin-top: 5px;
+}
+footer{
+	font-size: 12px;
+}
