@@ -51,6 +51,9 @@ footer{
 	background-size: 100% 100%;
 	display: block;
 }
+#address{
+	margin-top: 50px;
+}
 #schedule_of_events{
 	list-style-type: none;
     font-size: 20px;
