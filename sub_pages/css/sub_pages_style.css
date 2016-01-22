@@ -12,8 +12,9 @@ header{
 body{
 	background-color: rgb(158,255,211);
 	text-align: center;
+	margin: 0;
 }
-.hotels_h1{
+h1{
 	font-family: 'Roboto', sans-serif;
 	font-size: 30px;
 	margin-top: 50px;
@@ -37,4 +38,25 @@ p{
 }
 footer{
 	font-size: 12px;
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+}
+#time_place{
+	background: url(../images/time_place_background.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	display: block;
+}
+#schedule_of_events{
+	list-style-type: none;
+    font-size: 20px;
+	font-family: sans-serif;
+	font-weight: 300;
+	margin-top: 150px;
+	font-style: bold;
+	background-color: rgba(158,255,211,.4);
+	display: inline-block;
+}
+li{
+	padding: 10px;
 }
