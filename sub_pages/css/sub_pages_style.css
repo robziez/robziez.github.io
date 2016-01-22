@@ -39,12 +39,13 @@ p{
 footer{
 	font-size: 12px;
 	margin-bottom: 0px;
-	padding-bottom: 0px;
+	padding: 10px;
+	margin-top: 700px;
 }
 #time_place{
 	background: url(../images/time_place_background.jpg);
 	background-repeat: no-repeat;
-	background-size: cover;
+	background-size: 100% 100%;
 	display: block;
 }
 #schedule_of_events{
