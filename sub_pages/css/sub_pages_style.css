@@ -47,6 +47,8 @@ footer{
 }
 #time_place{
 	background: url(../images/time_place_background.jpg);
+	max-height: 100%;
+	max-width: 100%;
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
 	display: block;
