@@ -96,4 +96,18 @@ section:after{
     padding: 20px;
     float: right;
     width: 50%;
+    line-height: 1.5em;
+    margin: 55px;
+    margin-bottom: 45px;
+    font-family: 'Roboto', sans-serif;
+    font-style: 16px;
+}
+.wedding_party_h1{
+	font-family: 'Great Vibes', sans-serif;
+	font-size: 45px;
+}
+span{
+	font-family: 'Great Vibes', sans-serif;
+	font-size: 40px;
+	font-style: italic;
 }
