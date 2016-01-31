@@ -10,7 +10,7 @@ header{
 	margin-bottom: 15px;
 }
 body{
-	background-color: rgb(158,255,211);
+	background-color: #C1FFE2;
 	text-align: center;
 	margin: 0;
 }
@@ -70,8 +70,8 @@ li{
 	padding: 10px;
 }
 section{
-	background-color: #FFC4DF;
-    border: 1px black solid;
+	background-color: #FFCAB6;
+    border: 1px white solid;
     padding: 20px;
 }
 section:after{
@@ -83,7 +83,7 @@ section:after{
     height: 0;
 }
 .left_pic {
-    background-color: #FFEAF4;
+    background-color: #F1A3A0;
     border: 1px black solid;
     padding: 20px;
     float: left;
@@ -92,7 +92,7 @@ section:after{
 }
 
 .right_bio {
-    background-color: #D9669A;
+    background-color: #9CE7E4;
     border: 1px black solid;
     padding: 20px;
     float: right;
@@ -102,10 +102,9 @@ section:after{
     margin-bottom: 45px;
     font-family: 'Roboto', sans-serif;
     font-style: 16px;
-    margin-top: 100px;
 }
 .right_pic{
-	background-color: #FFEAF4;
+	background-color: #F1A3A0;
     border: 1px black solid;
     padding: 20px;
     float: right;
@@ -113,7 +112,7 @@ section:after{
     margin-right: 50px;
 }
 .left_bio{
-	background-color: #D9669A;
+	background-color: #9CE7E4;
     border: 1px black solid;
     padding: 20px;
     float: left;
