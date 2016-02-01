@@ -26,12 +26,12 @@ h1{
 }
 .click_image{
 	font-size: 14px;
-	color: gray;
+	color: rgb(74,74,74);
 	font-family: 'Roboto', sans-serif;
 	margin-bottom: none;
 }
 #marriott,#hyatt{
-	border: 8px white solid;
+	border: 8px #FFCAB6 solid;
 }
 p{
 	margin-top: 5px;
@@ -63,7 +63,7 @@ footer{
 	font-weight: 300;
 	margin-top: 100px;
 	font-style: bold;
-	background-color: rgba(158,255,211,.4);
+	background-color: rgba(193,255,226,.4);
 	display: inline-block;
 }
 li{
@@ -137,4 +137,21 @@ span{
 	font-family: 'Great Vibes', sans-serif;
 	font-size: 40px;
 	font-style: italic;
+}
+@media screen and (max-width: 375px){
+	.left_pic{
+		margin-left: 0;
+	}
+	.right_bio{
+		margin: 0;
+		margin-bottom: 0;
+	}
+	.left_bio{
+		margin: 0;
+		margin-bottom: 0;
+		margin-top: 0;
+	}
+	.right_pic{
+		margin-right: 0;
+	}
 }
