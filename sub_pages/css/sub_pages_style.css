@@ -6,6 +6,24 @@ header{
 	text-shadow: 2px 2px 2px rgb(39,44,54);
 	border-bottom: 2px #FFF solid;
 }
+header:after{
+	visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+#back{
+	text-align: left;
+	font-size: 14px;
+	color: #FFFFFF;
+	font-family: 'Roboto', sans-serif;
+	display: block;
+	float: left;
+	padding-top: 30px;
+	padding-left: 10px;
+}
 #photo_header{
 	margin-bottom: 15px;
 }
