@@ -14,17 +14,7 @@ header{
 .back{
 	text-align: left;
 	font-size: 14px;
-	color: #FFFFFF;
-	font-family: 'Roboto', sans-serif;
-	display: block;
-	float: left;
-	padding-top: 30px;
-	padding-left: 10px;
-}
-.back_gray{
-	text-align: left;
-	font-size: 14px;
-	color: rgb(74,74,74);
+	color: #000000;
 	font-family: 'Roboto', sans-serif;
 	display: block;
 	float: left;
@@ -68,18 +58,21 @@ footer{
 }
 #time_place_footer{
 	color: #FFFFFF;
-	margin-top: 700px;
+	margin-top: 4%;
 }
 #time_place{
-	background: url(../images/time_place_background.jpg);
-	max-height: 100%;
+	background: url(../images/time_place_background.jpg) no-repeat 
+	center center fixed;
 	max-width: 100%;
-	background-repeat: no-repeat;
-	background-size: 100% 100%;
+	background-size: 77% 100%;
+	background-color: rgb(193,255,226);
 	display: block;
 }
 #address{
-	margin-top: 50px;
+	width: 75%;
+	text-align: center;
+	margin: auto;
+	padding-top: 2%;
 }
 #schedule_of_events{
 	list-style-type: none;
