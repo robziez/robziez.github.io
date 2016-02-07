@@ -178,4 +178,7 @@ span{
 	.right_pic{
 		margin-right: 0;
 	}
+	#time_place_footer{
+		margin-top: 35%;
+	}
 }
