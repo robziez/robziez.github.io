@@ -99,7 +99,7 @@ ul li a:hover {
   and (-webkit-min-device-pixel-ratio: 2)
   and (orientation: portrait) {
   	footer{
-  		margin-top: 1500px;
+  		margin-top: 1400px;
   	}
   	body{
   		background: url(../images/mainpage_pic.jpg) no-repeat 
