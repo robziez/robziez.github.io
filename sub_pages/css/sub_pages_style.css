@@ -173,9 +173,12 @@ span{
     margin: auto;
     margin-top: 15%;
     line-height: 1.2em;
+    color: #F1A3A0;
+    font-weight: 700;
 }
 #proposal_footer{
 	margin-top: 16%;
+	color: #FFFFFF;
 }
 @media only screen 
   and (min-device-width: 320px) 
@@ -215,5 +218,8 @@ span{
   		font-size: 30px;
   		width: 50%;
   		font-weight: 700;
+  	}
+  	#proposal_footer{
+  		margin-top: 85%;
   	}
   }
