@@ -208,6 +208,8 @@ span{
   	#proposal{
   		background: url(../images/proposal.jpg) no-repeat 
   		center center fixed;
+  		max-width: 100%;
+  		max-width: 100%;
   	}
   	#proposal_info{
   		font-weight: 700;
