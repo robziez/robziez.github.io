@@ -211,3 +211,8 @@ span{
   		max-width: 100%;
   		background-size: 1400px 100%;
   	}
+  	#proposal_info{
+  		font-size: 30px;
+  		width: 50%;
+  		font-weight: 700;
+  	}
