@@ -163,9 +163,16 @@ span{
 #proposal{
 	background: url(../images/proposal.jpg) no-repeat;
 	background-size: cover;
+	text-align: center;
 }
-#proposal_date{
-	color: #FFFFFF;
+#proposal_info{
+	font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    width: 40%;
+    text-align: center;
+    margin: auto;
+    margin-top: 15%;
+    line-height: 1.2em;
 }
 @media only screen 
   and (min-device-width: 320px) 
