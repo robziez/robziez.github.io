@@ -47,6 +47,7 @@ h1{
 }
 #marriott,#hyatt{
 	border: 8px #FFCAB6 solid;
+	width: 50%;
 }
 p{
 	margin-top: 5px;
@@ -158,6 +159,10 @@ span{
 	font-family: 'Great Vibes', sans-serif;
 	font-size: 40px;
 	font-style: italic;
+}
+#proposal{
+	background: url(../images/proposal.jpg) no-repeat;
+	background-size: cover;
 }
 @media only screen 
   and (min-device-width: 320px) 
