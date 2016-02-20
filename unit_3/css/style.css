@@ -38,6 +38,8 @@ nav{
 }
 a{
 	color: rgb(39,44,54);
+	text-decoration: none;
+	display: block;
 }
 .dropdown{
 	float: left;
@@ -45,6 +47,8 @@ a{
 	display: block;
 	background-color: rgb(193,255,226);
 	position: relative;
+	padding-top: 10px;
+	padding-bottom: 10px;
 }
 footer{
 	font-size: 12px;
@@ -60,7 +64,7 @@ footer{
 	display: none;
 	list-style-type: none;
 	left: 0;
-	top: 16px;
+	top: 2.2em;
 	width: 100%;
 	background-color: rgba(193,255,226,.7);
 	padding: 0;
@@ -72,6 +76,8 @@ footer{
 .drop-nav li{
 	border-bottom: 1px solid black;
 	text-decoration: none;
+	padding-top: .5em;
+	padding-bottom: .5em;
 }
 ul li a:hover {
 	background-color: rgba(241,163,160,.5);
